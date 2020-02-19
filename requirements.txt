@@ -1,0 +1,8 @@
+pandas
+scypi
+matplotlip
+numpy
+sampen
+glob
+os
+sys
