@@ -3,7 +3,7 @@
 Calculate SamEn and ApEn of tremors measured with the KinesiaONE system
 
 # Dependencies
-The following libraries must be installed:
+The following libraries must be installed (python -r requirements.txt):
 ```
 pandas
 scypi
