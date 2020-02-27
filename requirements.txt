@@ -7,3 +7,4 @@ glob
 os
 sys
 openpyxl
+xlrd
