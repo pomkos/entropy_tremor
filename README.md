@@ -13,6 +13,8 @@ sampen
 glob
 os
 sys
+openpyxl
+xlrd
 ```
 
 Download and install EntroPy as per the link: https://github.com/raphaelvallat/entropy
