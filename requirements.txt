@@ -1,10 +1,7 @@
 pandas
-scypi
-matplotlip
+scipy
+matplotlib
 numpy
 sampen
-glob
-os
-sys
 openpyxl
 xlrd
